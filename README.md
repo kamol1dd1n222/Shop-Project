@@ -1,2 +1,2 @@
 # Shop-Project
-Shop-Project pythonda 
+Shop-Project in python 
